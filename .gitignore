@@ -1,0 +1,59 @@
+# Visual Studio archivos de usuario
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación y dependencias
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.cache
+*.pdb
+*.mdb
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos de paquete y dependencias
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+nuget.config
+NuGet.Config
+NuGet.exe
+*.nupkg
+*.snupkg
+package-lock.json
+
+# Configuración de Rider y JetBrains
+.idea/
+*.sln.iml
+
+# Archivos de build y publicación
+out/
+publish/
+node_modules/
+
+# Archivos de Entity Framework Migrations
+Migrations/
+
+# Archivos generados por .NET
+*.dbmdl
+*.jfm
+
+# Archivos de cache y logs
+logs/
+*.log
+*.tlog
+*.cache
+*.swp
+*.swo
+
+# Configuración de usuario local
+appsettings.Local.json
+secrets.json
